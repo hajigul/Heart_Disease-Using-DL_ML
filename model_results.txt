@@ -1,0 +1,30 @@
+KNeighbors Classifier:
+  Accuracy: 0.9016
+  Precision: 0.9062
+  Recall: 0.9062
+
+Decision Tree Classifier:
+  Accuracy: 0.8197
+  Precision: 0.8621
+  Recall: 0.7812
+
+Random Forest Classifier:
+  Accuracy: 0.8689
+  Precision: 0.8750
+  Recall: 0.8750
+
+SVM Classifier:
+  Accuracy: 0.9016
+  Precision: 0.9333
+  Recall: 0.8750
+
+Logistic Regression:
+  Accuracy: 0.8852
+  Precision: 0.9032
+  Recall: 0.8750
+
+Deep Learning Model:
+  Accuracy: 0.8689
+  Precision: 0.8750
+  Recall: 0.8750
+
